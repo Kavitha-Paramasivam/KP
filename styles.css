@@ -1,0 +1,44 @@
+body{
+
+    background-image: url("https://image.freepik.com/free-photo/top-view-various-brushes-crayons_23-2148660992.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    color:white;
+    height:100%;
+    text-align: center;   
+
+}
+
+ 
+.intro{
+
+    padding-top:250px;   
+
+}
+
+
+.container-fluid{
+
+    padding-top:75px;
+
+}
+
+ 
+.align{
+
+    margin-left:47%;
+    width:30%;
+    text-align: left;
+
+}
+
+ 
+.align2{
+
+    margin-left:37%;
+    padding:2px;
+    width:50%;
+    text-align: left;
+}
+
