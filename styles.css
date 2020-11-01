@@ -13,14 +13,14 @@ body{
  
 .intro{
 
-    padding-top:250px;   
+    padding-top:15.625rem;   
 
 }
 
 
-.container-fluid{
+.info{
 
-    padding-top:75px;
+    padding-top:4.6875rem   ;
 
 }
 
@@ -37,7 +37,7 @@ body{
 .align2{
 
     margin-left:37%;
-    padding:2px;
+    padding:0.125rem;
     width:50%;
     text-align: left;
 }
